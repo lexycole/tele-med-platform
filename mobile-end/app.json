@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "tele-med",
+    "slug": "tele-med",
+    "version": "1.0.0",
+    "entryPoint": "./index.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "jsEngine": "hermes",
+    "plugins": [
+      "sentry-expo",
+      "expo-secure-store",
+      "expo-router",
+      "expo-image-picker"
+    ]
+  }
+}

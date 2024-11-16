@@ -1,0 +1,11 @@
+export { MyAccount } from "../../(public)/MyAccount";
+export { ChangePassword } from "../../(public)/ChangePassword";
+export { Patient } from "./Patient";
+export { AddPatient } from "./AddPatient";
+export { PaymentsDetails } from "../../(public)/PaymentsDetails";
+export { Financial } from "../../(public)/Financial";
+export { AboutUs } from "../../(public)/AboutUs";
+export { PrivacyPolicy } from "../../(public)/PrivacyPolicy";
+export { TermsofUse } from "../../(public)/TermsofUse";
+// export {FAQ} from './FAQ';
+export { Notifications } from "./Notifications";
